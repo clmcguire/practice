@@ -1,6 +1,7 @@
 #include<iostream>
-using namspace std;
+using namespace std;
 
-int main() {
-  cout << "hello, world" << endl;
+int main () {
+cout << "Hello world" << endl;
+return 0;
 }
